@@ -111,7 +111,8 @@ kubectl api-resources --namespaced=true
 kubectl api-resources --namespaced=false
 ```
 
-{{% /capture %}}
+{{% /capturegm %}} docs/concepts/services-networking/dns-pod-service/
+
 
 {{% capture whatsnext %}}
 * Learn more about [creating a new namespace](/docs/tasks/administer-cluster/namespaces/#creating-a-new-namespace).
